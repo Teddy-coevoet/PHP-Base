@@ -5,7 +5,7 @@
 define('HOST', 'localhost');
 define('USER', 'root');
 define('PASS', '');
-define('DB', 'beer_pdo');
+define('DB', 'beer-pdo');
 
 // Connexion à la BDD
 try { // Essaye le code
