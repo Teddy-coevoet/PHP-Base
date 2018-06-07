@@ -19,4 +19,9 @@
 [Recherche] Un utilisateur (192.168.1.130) a cherché "aa" le 05/06/2018 à 12h23
 [Recherche] Un utilisateur (192.168.1.130) a cherché "aa" le 05/06/2018 à 12h23
 [Recherche] Un utilisateur (192.168.1.111) a cherché "Ip Fab" le 05/06/2018 à 12h24
+<<<<<<< Updated upstream
 [Recherche] Un utilisateur (::1) a cherché "duvel" le 06/06/2018 à 13h53
+=======
+[Recherche] Un utilisateur (::1) a cherché "duvel" le 07/06/2018 à 07h59
+[Recherche] Un utilisateur (::1) a cherché "buxton" le 07/06/2018 à 09h03
+>>>>>>> Stashed changes
